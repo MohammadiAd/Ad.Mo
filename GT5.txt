@@ -35,3 +35,8 @@ vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@31.7.78.80:46036?encryption=none&se
 vless://5bdb5652-1855-4d5e-8231-c6a0f446f5a9@193.151.137.72:8443?encryption=none&security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowInsecure=1&type=tcp&headerType=none#%F0%9F%94%92
 trojan://auto@193.151.137.72:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&allowInsecure=1&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#%F0%9F%94%92
 vless://33b3cbba-e6ac-485a-9481-976a2945eab9@104.21.19.82:80?encryption=none&security=none&type=ws&host=fLat-nigHT-F3F9.jiwoxO6991.worKerS.DeV&path=%2F#%F0%9F%94%92
+vless://cd14b7ce-f353-4f7a-8eac-de83474c298f@188.136.206.189:2045?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%94%92
+vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%92
+trojan://telegram-id-privatevpns@13.41.144.75:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB
+vless://96435ac9-d83f-465d-a276-27252b61cea0@88.135.46.45:2053?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92
+trojan://telegram-id-directvpn@3.21.109.143:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US
