@@ -39,3 +39,5 @@ vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@167.235.235.192:8080?encryption=non
 vless://f0d91a26-0872-44c6-b879-5d687397bab7@85.133.203.162:2003?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@40.172.9.127:443#%F0%9F%94%92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.169.125:443#%F0%9F%94%92
+trojan://telegram-id-privatevpns@13.51.101.8:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE
+trojan://telegram-id-directvpn@3.97.161.203:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6CA
