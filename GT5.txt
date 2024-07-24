@@ -2,6 +2,7 @@ vless://9760a35b-6609-45bf-a2af-c0ea3e94b725@62.60.138.209:6611?encryption=none&
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODNDXHVEREVFXHVEODNDXHVEREY3IElSLTE3OC4yMzkuMTU3LjIwMToyOTMyNyIsDQogICJhZGQiOiAiMTc4LjIzOS4xNTcuMjAxIiwNCiAgInBvcnQiOiAiMjkzMjciLA0KICAiaWQiOiAiMGZhZGU3NjktNjU4My00N2QwLWJhYWYtMzdmOTI5YTU2MmQxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAidXB0dnMuY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@93.123.17.136:443?encryption=none&security=tls&sni=gcore.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=raimonchannel.com&path=%2F#%F0%9F%94%92
 vless://bf743166-f4a3-48ea-8269-d88a4b79570a@95.85.95.85:80?encryption=none&security=none&type=ws&host=pronkstar.com&path=%2Fbypronk#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%B1%F0%9F%87%BA%20LU-95.85.95.85%3A80
+trojan://telegram-id-directvpn@18.135.7.82:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB
 vless://32ed7d06-9d3d-4cf5-b58c-b67e8fc4e189@185.173.130.24:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.173.130.24%3A443
 vless://af2fdbc2-3917-4288-8710-ec1b448acefb@212.80.19.118:55678?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.80.19.118%3A55678
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&security=tls&sni=www.Arizona.edu&allowInsecure=1&type=ws&host=fraud.chase&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.2.133%3A443
@@ -33,7 +34,6 @@ vless://119aa2e2-f1e2-4833-920d-a2d92fbbe2c5@172.67.137.162:443?encryption=none&
 vless://1ae8e1c7-ba9b-47e4-e5aa-d450409ff772@104.21.46.253:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws1.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%F0%9F%94%92
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZFBBV2pCSEdVaitsRHBkejhVTDlDYUlsQ0hyQjZscVB5dnNjcExHM1grdz06TmUxMU5vdHJUWlhPL1E0ME5SZXlKUkJ5RnpMcFFxVkhJZkpSSWpSTlQ2WT0=@188.245.59.155:31902#%F0%9F%94%92
 trojan://tKadZAThEQ@188.245.59.155:57875?security=tls&allowInsecure=1&type=tcp&headerType=none#%F0%9F%94%92
-trojan://telegram-id-directvpn@18.135.7.82:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB
 vless://816df67e-7cbc-4cb9-ba74-542a63509461@70.34.205.185:990?encryption=none&flow=xtls-rprx-vision&security=reality&sni=steamcommunity.com&fp=chrome&pbk=RMlvUV1yV2ZRru0g88BCe8qzgvRyVAmmEj9frQSeNH4&allowInsecure=1&type=tcp&headerType=none#%F0%9F%94%92
 vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@167.235.235.192:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92
 vless://f0d91a26-0872-44c6-b879-5d687397bab7@85.133.203.162:2003?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92
@@ -42,3 +42,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.169.125:443#%F0
 trojan://telegram-id-privatevpns@13.51.101.8:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE
 trojan://telegram-id-directvpn@3.97.161.203:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6CA
 vless://95a0863e-0a57-4f0a-a736-d5969e61d784@85.9.115.59:8086?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92
+trojan://telegram-id-directvpn@3.97.68.176:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6CA
