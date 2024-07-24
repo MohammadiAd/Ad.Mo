@@ -23,3 +23,8 @@ vless://92fe3418-14df-4fd1-b05b-b0782453cb7a@212.80.18.156:36713?encryption=none
 vless://07c4845f-fd1f-405a-8492-c81761334c49@85.9.115.59:8086?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92
 vless://b6248e76-7523-464d-979f-15fb9c348f6f@193.151.152.34:18683?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#%F0%9F%94%92
 trojan://telegram-id-privatevpns@13.60.0.173:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE
+trojan://telegram-id-directvpn@16.171.157.77:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE
+vless://a41cc374-9adf-4020-a8de-28bbd831aaf0@193.151.135.172:17002?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#%F0%9F%94%92
+vless://ba775821-d47b-4669-8ff0-91edf718a162@46.36.103.71:8464?encryption=none&security=none&type=tcp&headerType=http&host=2picrszy.divarcdn.com#%F0%9F%94%92
+vless://119aa2e2-f1e2-4833-920d-a2d92fbbe2c5@172.67.137.162:443?encryption=none&security=tls&sni=hidden-vc9x516czyomhnzjkq.kocjal.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=hidden-vc9x516czyomhnzjkq.kocjal.shop&path=%2F#%F0%9F%94%92
+vless://1ae8e1c7-ba9b-47e4-e5aa-d450409ff772@104.21.46.253:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws1.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#%F0%9F%94%92
