@@ -41,3 +41,4 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@40.172.9.127:443#%F0%9F%94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.169.125:443#%F0%9F%94%92
 trojan://telegram-id-privatevpns@13.51.101.8:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AASE
 trojan://telegram-id-directvpn@3.97.161.203:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6CA
+vless://95a0863e-0a57-4f0a-a736-d5969e61d784@85.9.115.59:8086?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92
