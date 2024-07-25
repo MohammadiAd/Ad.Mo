@@ -1,4 +1,5 @@
-trojan://telegram-id-privatevpns@18.171.38.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB
+vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@gcore.com:443?encryption=none&security=tls&sni=gcore.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=raimonchannel.com&path=%2F#%F0%9F%91%89
+vless://10f3bb07-d29c-4bcb-b649-5895ae1b1c51@134.209.23.80:41676?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92
 vless://bf743166-f4a3-48ea-8269-d88a4b79570a@95.85.95.85:80?encryption=none&security=none&type=ws&host=pronkstar.com&path=%2Fbypronk#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%B1%F0%9F%87%BA%20LU-95.85.95.85%3A80
 vless://32ed7d06-9d3d-4cf5-b58c-b67e8fc4e189@185.173.130.24:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.173.130.24%3A443
 vless://af2fdbc2-3917-4288-8710-ec1b448acefb@212.80.19.118:55678?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.80.19.118%3A55678
@@ -47,7 +48,8 @@ trojan://telegram-id-directvpn@3.97.68.176:22222?security=tls&sni=trojan.burgeri
 trojan://telegram-id-directvpn@3.136.42.169:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.42.148.4:443#%F0%9F%94%92
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@15.185.163.127:443#%F0%9F%94%92
-vless://10f3bb07-d29c-4bcb-b649-5895ae1b1c51@134.209.23.80:41676?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92
+trojan://telegram-id-privatevpns@18.171.38.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB
 trojan://telegram-id-directvpn@35.169.197.134:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US
 trojan://telegram-id-privatevpns@34.240.21.67:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AAIE
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@92.38.145.145:443?encryption=none&security=tls&sni=gcore.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=raimonchannel.com&path=%2F#%F0%9F%94%92
+vless://eb1c3142-b3f6-4b37-8f30-4964e1872017@178.239.156.231:445?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92
