@@ -31,3 +31,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTkEgXHVEODND
 vless://51a8f3ed-73ca-4b90-b152-73e1660df8c9@88.135.46.45:2053?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.153:18907?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%AA%2B%40SiNoTz%2B%5BIE%E2%86%B9%F0%9F%87%AE%F0%9F%87%B7%5D%60
 vless://a7ba0f43-0306-4d43-803c-c3841efd71a2@88.135.46.45:2053?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92
+vless://c18bb58f-54a0-4669-ae82-a294637db008@193.151.158.16:80?encryption=none&security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#%F0%9F%92%95
