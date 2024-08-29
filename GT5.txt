@@ -83,3 +83,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.155.239:443?encryption=none&
 vless://b2d34567-8e5a-53e7-9046-94bc78718af4@172.67.182.221:2096?encryption=none&security=tls&sni=vpnkenzo-3.nptkbb.wOrKErS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vpnkenzo-3.nptkbb.wOrKErS.DEV&path=vless-ws%2F%3Fed%3D2048#%F0%9F%94%92
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.170.139:443?encryption=none&security=tls&sni=mmdv2.pages.dev&allowInsecure=1&type=ws&host=mmdv2.pages.dev&path=%2F#%F0%9F%94%92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjdlODEyZC00Zjc4LTRlYjQtOGMzYy00YWU3ZmZlMDM2OGM=@175.123.108.164:61001#%F0%9F%94%92
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.199:80?encryption=none&security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#%F0%9F%94%92
