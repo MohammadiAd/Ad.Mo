@@ -1,4 +1,4 @@
-vless://eb98ab60-f16d-4662-a740-c89307400939@151.101.213.164:443?encryption=none&security=tls&sni=accounts.fastly.com&type=xhttp&host=fretranxrabet.net&path=%2F&mode=auto#%40vmess_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@193.124.46.134:8444?#%F0%9F%87%AC%F0%9F%87%A7GB%20%20ROSE%E2%80%94188
 vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&type=tcp&headerType=none&host=www.amd.com&path=%2F%20#%F0%9F%87%B3%F0%9F%87%B1%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-NL
 vless://dbe85a41-4f66-4874-89b2-580c7896951c@cf2.coixconqwe1.ir:2086?encryption=none&security=none&type=xhttp&host=Afk.1.cafearen.ir&path=%2F#%F0%9F%8C%90%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-XX
 vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?encryption=none&security=none&type=ws&host=old-truth-de8a.110-187.workers.dev&path=%2Fpyip#filembad-141
@@ -13,7 +13,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlByb3h5TXRwVlBOLTQ2NCIsDQogICJhZGQiOiAi
 trojan://3noytnrarq8xhp43@aiogram325666zxcassfdwerw3r34535467b67h678h678jm67i67i.iranpuls.ir:443?security=tls&sni=AiOgrAm325666zXcAssfDweRw3R34535467b67h678h678jm67i67i.iranpuls.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&host=AiOgrAm325666zXcAssfDweRw3R34535467b67h678h678jm67i67i.iranpuls.ir&path=%2FaIOgraMtELEgRAM&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22xPaddingBytes%22%3A%22280-1237%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%86%94v2ray1_ng%20%F0%9F%94%92%20TR-XHTTP-N%2FA%20%E2%9D%94%20XX%20190ms
 ss://YWVzLTI1Ni1nY206T1VkRXNIMUdHcmhhMFFPSw@103.136.68.36:8388?#%40vpnclashfa%20-%203352
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?encryption=none&security=tls&sni=static.lotussec.com&fp=firefox&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#%40V2RAYROZ%20%F0%9F%8D%AB
-socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d&spx=%2Fy52f8gp4rv1il6u&type=xhttp&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&mode=auto&extra=%7B%22mode%22%3A%22auto%22%7D#filembad-321
 socks://Og@185.252.31.104:1080#%40V2ray_Alpha%F0%9F%8F%97%EF%B8%8F%207
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=e5f67890&type=tcp&headerType=none#%40V2RFA
@@ -92,7 +91,6 @@ socks://TV9ZT1VfRDpQcml2YXRl@us9.cactussstp.com:1080#telegram%20%40mtmvpn
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGMFx1RDgzQ1x1RERGN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLA0KICAiYWRkIjogIjExNS44OS45OC4yMzEiLA0KICAicG9ydCI6ICIxMDUwOSIsDQogICJpZCI6ICI0ZjFjMWNhMS1hNDIyLTQwMTQtOTQyMy0wNGUzOWVkNzNiMDMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9hcmtpIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.93:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com%20&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%F0%9F%87%B0%F0%9F%87%B7%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-KR
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@167.104.96.16:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=firefox&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%20#%F0%9F%87%AD%F0%9F%87%B0%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@193.124.46.134:8444?#%F0%9F%87%AC%F0%9F%87%A7GB%20%20ROSE%E2%80%94188
 vless://50414e45-4c5f-5a45-5553-ef859652a80e@user.akbarihelia.ir:443?encryption=none&security=tls&sni=trex-panel-nubj0s.samifakor.workers.dev%20&fp=ios&type=ws&host=trex-panel-nubj0s.samifakor.workers.dev&path=%2Fstream%2FTrexBridge%2Fef859652a80e#%F0%9F%8C%90%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-XX
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@205.186.64.155:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com%20&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%F0%9F%87%B2%F0%9F%87%BE%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-MY
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com%20&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%F0%9F%87%AD%F0%9F%87%B0%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-HK
@@ -153,7 +151,6 @@ vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?encryptio
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP_639_%40Surfboardv2ray
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&sid=84fc&type=tcp&headerType=none#All--%40V2rayAlpha--13
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&type=tcp&headerType=none#filembad-472
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.ignitelimit.com&path=%2Fassignment#NormanV2ray-61
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&fp=firefox&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&fp=chrome&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#%40V2RFA
@@ -165,18 +162,21 @@ vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?encryption=none&
 vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@172.67.179.98:8880?encryption=none&security=none&type=ws&host=falling-lake-0b5a.192-3e2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#filembad-223
 vless://f5c01a38-a92a-46a1-8968-a0582f4e2f2a@104.16.107.139:8880?encryption=none&security=none&type=ws&host=steep-frost-8b18.350-c77.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#filembad-399
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?encryption=none&security=none&type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#filembad-181
+vless://eb98ab60-f16d-4662-a740-c89307400939@151.101.213.164:443?encryption=none&security=tls&sni=accounts.fastly.com&type=xhttp&host=fretranxrabet.net&path=%2F&mode=auto#%40vmess_ir
 vless://e9f44bc0-72c5-435b-9ab0-b1525823ad02@anydesk.com:8880?encryption=none&security=none&type=ws&host=gentle-rice-a9b4.460-a3e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#v2ray_configs_pool-519
 vless://b8615d20-5c52-44d8-9382-e7fc4bcc2524@209.141.46.141:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=5uQoc3Jwa6MhbA27hpy1dDFIo6LpvVstrWQ20FaJrws&sid=d3f0df67&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-US
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?encryption=none&security=none&type=ws&host=delicate-base-12ed.287-133.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#filembad-327
 socks://Og@91.213.151.4:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-socks://Og@2.180.22.81:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.251.82.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev%20&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-US
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.100.215:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net%2B#filembad-135
-socks://Og@185.63.113.164:1085#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.30:8880?encryption=none&security=none&sni=212.183.88.30&type=ws&host=vms.lifetime23.workers.dev&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%A6%F0%9F%87%B9%20AT-212.183.88.30%3A8880
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime35.workers.dev%20&path=%2F#%F0%9F%8C%90%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-SC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev%20&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-GB
-socks://Og@185.79.96.92:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev%20&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-US
-socks://Og@91.222.196.8:7071#Join%F0%9F%92%A0%40V2rayAccess%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 socks://MTExOjExMQ@47.76.229.132:11310#%40V2RFA%20
+socks://Og@91.222.196.8:7071#Join%F0%9F%92%A0%40V2rayAccess%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+socks://Og@185.63.113.164:1085#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&type=tcp&headerType=none#filembad-472
+socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@185.79.96.92:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+socks://Og@2.180.22.81:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
