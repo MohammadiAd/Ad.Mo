@@ -1,13 +1,11 @@
 socks://Og@91.213.151.4:1070#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?#ProxyMtpVPN-32
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp&headerType=none#filembad-247
+socks://MTExOjExMQ@47.243.173.50:11211#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#filembad-300
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime40.workers.dev&path=%2F#filembad-153
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@af14ee75949b3b21.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-136
-vless://b2dacbda-8221-4548-a104-aa8aa56ab282@e17af6bd982d0749.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-270
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-143
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime40.workers.dev&path=%2F#filembad-153
 vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&type=tcp&headerType=none&host=www.amd.com&path=%2F%20#%F0%9F%87%B3%F0%9F%87%B1%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-NL
 vless://dbe85a41-4f66-4874-89b2-580c7896951c@cf2.coixconqwe1.ir:2086?encryption=none&security=none&type=xhttp&host=Afk.1.cafearen.ir&path=%2F#%F0%9F%8C%90%20%5B%20Configs%20by%20DukeMehdi%20%5D%20VL-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?#ProxyMtpVPN-32
 socks://MTExOjExMQ@47.76.229.132:11310#%40V2RFA%20
 socks://Og@5.201.174.236:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 socks://Og@91.222.196.8:7071#Join%F0%9F%92%A0%40V2rayAccess%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -228,3 +226,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000?#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-141.164.45.187%3A8000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443?#v2ray_configs_pool-21
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime40.workers.dev&path=%2F#filembad-153
+vless://4dd86f78-8202-42c2-89b6-801fd29daf45@af14ee75949b3b21.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-136
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#filembad-300
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp&headerType=none#filembad-247
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@e17af6bd982d0749.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-270
+vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&sid=ca358c46a3e9d52a&type=tcp&headerType=none#filembad-143
